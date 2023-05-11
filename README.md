@@ -1,2 +1,2 @@
 # hello-world 
-<p>My name is Charity Wanja Mwaura</p>
+<h1>My name is Charity Wanja Mwaura</h1>
